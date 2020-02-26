@@ -1,6 +1,5 @@
 import { useState } from 'react'
 
-
 const Prices = (props) => {
     const [currency, setCurrency] = useState('USD')
     return (
